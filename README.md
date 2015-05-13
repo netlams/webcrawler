@@ -1,7 +1,7 @@
 # website-crawler
 Java application with GUI. Final Project for Java II (Data Structures) class.
 
-Contributers: Yaotian He, Dau Lam
+<p>Contributers: Yaotian He, Dau Lam</p>
 
 <h2>Language written in:</h2> 
 <p>Java</p>
@@ -33,5 +33,5 @@ Contributers: Yaotian He, Dau Lam
 
 <h2>Screen shots:</h2>
 <p>Default View: <img src="https://github.com/netlams/website-crawler/blob/master/images/1.gui%20tested.png" alt="Gathering data"></p>
-<p>Gathering data (web crawling) <img src="https://github.com/netlams/website-crawler/blob/master/images/2.building%20tested.png" alt="Gathering data"></p>
-<p>Searching through data <img src="https://github.com/netlams/website-crawler/blob/master/images/7.search%20scenario1%20tested.png" alt="Searching through gathered data"></p>
+<p>Gathering data (web crawling): <img src="https://github.com/netlams/website-crawler/blob/master/images/2.building%20tested.png" alt="Gathering data"></p>
+<p>Searching through data: <img src="https://github.com/netlams/website-crawler/blob/master/images/7.search%20scenario1%20tested.png" alt="Searching through gathered data"></p>
