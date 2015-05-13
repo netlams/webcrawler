@@ -20,15 +20,18 @@ Contributers: Yaotian He, Dau Lam
 		<li>Get all the indexes' value (the Bucket class) into a Set</li>
 		<li>Sort the set using the Bucket's frqCount descending</li>
 		<li>Output all the docID from the Set</li>
+	</ol>
 </p>
 
 <h2>Testing:</h2>
-1.  Open project in Netbeans. The project is named InformationRetrievalSystems from the zip.
-2.	Run InformationRetrievalSystems.java
-3.	On the interface, press the “Build” button.
-4.	Once finishing building the data, enter a search term and press the “Search” button. 
-5.	Program is completed, you may close it now or use other features.
+<ol><li>Open project in Netbeans. The project is named InformationRetrievalSystems<li>
+	<li>Run InformationRetrievalSystems.java</li>
+	<li>On the interface, press the “Build” button</li>
+	<li>Once finishing building the data, enter a search term and press the “Search” button</li> 
+	<li>Program is completed, you may close it now or use other features</li>
+</ol>
 
 <h2>Screen shots:</h2>
-<p>Gathering data <img src="" alt="Gathering data"></p>
-<p>Searching through data <img src="" alt="Searching through gathered data"></p>
+<p>Default View: <img src="https://github.com/netlams/website-crawler/blob/master/images/1.gui%20tested.png" alt="Gathering data"></p>
+<p>Gathering data (web crawling) <img src="https://github.com/netlams/website-crawler/blob/master/images/2.building%20tested.png" alt="Gathering data"></p>
+<p>Searching through data <img src="https://github.com/netlams/website-crawler/blob/master/images/7.search%20scenario1%20tested.png" alt="Searching through gathered data"></p>
